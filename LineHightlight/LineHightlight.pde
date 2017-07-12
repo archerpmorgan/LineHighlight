@@ -1,5 +1,3 @@
-import controlP5.*; //INSTALL CONTROLP5 via: sketch -> Import Library -> Add Library
-/**** Global Variables *****/
 /*--------------------------------------------------------------------------------------------
  * Author: Carlos Carbajal 
  * 
@@ -8,7 +6,10 @@ import controlP5.*; //INSTALL CONTROLP5 via: sketch -> Import Library -> Add Lib
  *
  *-------------------------------------------------------------------------------------------
  */
- 
+
+import controlP5.*; //INSTALL CONTROLP5 via: sketch -> Import Library -> Add Library
+
+/**** Global Variables *****/
 ControlP5 cp5;
 Button button;
 int clicks = 0;
